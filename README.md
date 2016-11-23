@@ -1,19 +1,7 @@
 # PubSub
 
-**TODO: Add description**
+Example from José's talk on 11/23/2016 at the remote meetup.
 
-## Installation
+The official repo is [here](https://github.com/josevalim/meetup_pub_sub).
 
-If [available in Hex](https://hex.pm/docs/publish), the package can be installed
-by adding `pub_sub` to your list of dependencies in `mix.exs`:
-
-```elixir
-def deps do
-  [{:pub_sub, "~> 0.1.0"}]
-end
-```
-
-Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
-and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
-be found at [https://hexdocs.pm/pub_sub](https://hexdocs.pm/pub_sub).
-
+I hope to include more examples once the talk is published.
